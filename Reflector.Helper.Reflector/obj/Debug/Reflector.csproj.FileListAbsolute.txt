@@ -1,0 +1,8 @@
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\bin\Debug\Reflector.Helper.Reflector.dll
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\bin\Debug\Reflector.Helper.Reflector.pdb
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\bin\Debug\Newtonsoft.Json.dll
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\obj\Debug\Reflector.csproj.CoreCompileInputs.cache
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\obj\Debug\Reflector.csproj.CopyComplete
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\obj\Debug\Reflector.Helper.Reflector.dll
+C:\_wendel\Reflector\Klassmatt.Helper.Reflector\obj\Debug\Reflector.Helper.Reflector.pdb

@@ -1,0 +1,12 @@
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Reflector.Test.dll
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Reflector.Test.pdb
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Newtonsoft.Json.dll
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Reflector.Helper.Reflector.dll
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Reflector.Helper.Reflector.pdb
+C:\_wendel\Reflector\Klassmatt.Test\bin\Debug\Newtonsoft.Json.xml
+C:\_wendel\Reflector\Klassmatt.Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\_wendel\Reflector\Klassmatt.Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\_wendel\Reflector\Klassmatt.Test\obj\Debug\Test.csproj.CopyComplete
+C:\_wendel\Reflector\Klassmatt.Test\obj\Debug\Reflector.Test.dll
+C:\_wendel\Reflector\Klassmatt.Test\obj\Debug\Reflector.Test.pdb
